@@ -370,13 +370,13 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Lễ Hội tí nhờ",
+                section: "🌟 Lễ Hội tí nhờ",
                 items: [
                     { overlay_id: "caption:halloween_2026", source: "remote", caption: { background: { colors: ["#150804", "#C8540D"] }, icon: { type: "image", data: "https://storage.googleapis.com/locket-public/journal_calendar_assets/holiday_indicators/halloween_indicator%403x.png", source: "url" }, max_lines: 1, text: "Halloween", localized_text: { en: "Halloween", vn: "Halloween" }, text_color: "#FFB182", type: "static_content" } },
-                    { overlay_id: "caption:spring", source: "remote", caption: { background: { colors: ["#FFB7C5", "#FF7EB3"] }, icon: { data: "🌸", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Xuân", localized_text: { en: "Hello Spring", vn: "Xin chào Mùa Xuân" }, text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:summer", source: "remote", caption: { background: { colors: ["#4FACFE", "#00F2FE"] }, icon: { data: "☀️", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Hạ", localized_text: { en: "Hello Summer", vn: "Xin chào Mùa Hạ" }, text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:spring", source: "remote", caption: { background: { colors: ["#FFB7C5", "#FF7EB3"] }, icon: { data: "🌸", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Xuân", localized_text: { en: "Xin chào Mùa Xuân", vn: "Xin chào Mùa Xuân" }, text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:summer", source: "remote", caption: { background: { colors: ["#4FACFE", "#00F2FE"] }, icon: { data: "☀️", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Hạ", localized_text: { en: "Xin chào Mùa Hạ", vn: "Xin chào Mùa Hạ" }, text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:autumn_2026", source: "remote", caption: { background: { colors: ["#FFE0A0", "#F6A53A"] }, icon: { data: "🍂", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Thu", localized_text: { en: "Xin chào Mùa Thu", vn: "Xin chào Mùa Thu" }, text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:winter", source: "remote", caption: { background: { colors: ["#A1C4FD", "#C2E9FB"] }, icon: { data: "❄️", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Đông", localized_text: { en: "Hello Winter", vn: "Xin chào Mùa Đông" }, text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:winter", source: "remote", caption: { background: { colors: ["#A1C4FD", "#C2E9FB"] }, icon: { data: "❄️", type: "emoji" }, max_lines: 1, text: "Xin chào Mùa Đông", localized_text: { en: "Xin chào Mùa Đông", vn: "Xin chào Mùa Đông" }, text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:christmas_eve_2026", source: "remote", caption: { background: { colors: ["#2FA85F", "#176B3A"] }, icon: { data: "🕯️", type: "emoji" }, max_lines: 1, text: "Giáng sinh an lành", localized_text: { en: "Giáng sinh an lành", vn: "Giáng sinh an lành" }, text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:christmas_day_2026", source: "remote", caption: { background: { colors: ["#E53935", "#A81818"] }, icon: { data: "🎄", type: "emoji" }, max_lines: 1, text: "Giáng sinh an lành", localized_text: { en: "Giáng sinh an lành", vn: "Giáng sinh an lành" }, text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:new_years_eve_2026", source: "remote", caption: { background: { colors: ["#FFC64B", "#FFEDBF"] }, icon: { data: "🥂", type: "emoji" }, max_lines: 1, text: "Xin chào 2027!", localized_text: { en: "Xin chào 2027!", vn: "Xin chào 2027!" }, text_color: "#643F00", type: "static_content" } },
@@ -385,7 +385,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 À được chưaaa",
+                section: "👀 À được chưaaa",
                 items: [
                     { overlay_id: "caption:toi_nho_em", source: "remote", caption: { background: { colors: ["#FFFFFF", "#6D9EEB"] }, max_lines: 1, text: "보고 싶어 🥺", text_color: "#000000E6", type: "static_content" } },
                     { overlay_id: "caption:party_time", source: "remote", caption: { background: { colors: ["#5EFFF5", "#FCFF57"] }, icon: { data: "🪩", type: "emoji" }, max_lines: 1, text: "Party Time!", text_color: "#000000E6", type: "static_content" } },
