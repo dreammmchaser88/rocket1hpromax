@@ -396,9 +396,9 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Design by LeVietHung",
+                section: "🐣 Design by LeVietHung",
                 items: [
-                    { overlay_id: "caption:vietthungg88", source: "remote", caption: { background: { colors: ["#B8E7FF", "#31a5c3", "#1ec3dc"] }, icon: { data: "🐣", type: "emoji", color: "#183153" }, max_lines: 1, text: "Design by LeVietHung", text_color: "#183153", type: "static_content" } },
+                    { overlay_id: "caption:vietthungg88", source: "remote", caption: { background: { colors: ["#B8E7FF", "#31a5c3", "#1ec3dc"] }, icon: { data: "✅", type: "emoji", color: "#183153" }, max_lines: 1, text: "Design by LeVietHung", text_color: "#183153", type: "static_content" } },
                     { overlay_id: "caption:cr7_siuuuu", source: "remote", caption: { background: { colors: ["#E42518", "#000000"] }, icon: { data: "⚽", type: "emoji" }, max_lines: 1, text: "Siuuuuu!", localized_text: { en: "Siuuuuu!", vn: "Siuuuuu!" }, text_color: "#FFFFFF", type: "static_content" } },
                     { overlay_id: "caption:cu", source: "remote", caption: { background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] }, max_lines: 1, text: "Mã đáo thành công 🐎", text_color: "#633B24", type: "static_content" } },
                     { overlay_id: "caption:tuat", source: "remote", caption: { background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] }, icon: { data: "🐕", type: "emoji" }, max_lines: 1, text: "Tuất", text_color: "#FFFFFFE6", type: "static_content" } },
@@ -409,7 +409,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Tình iuuu 💕",
+                section: "Tình iuuu 💕",
                 items: [
                     { overlay_id: "caption:em_nho_anhh", source: "remote", caption: { background: { colors: ["#FF6B81", "#FF8E9E", "#FFB3C6"] }, icon: { data: "🥺", type: "emoji" }, max_lines: 1, text: "em nhớ anhhh", text_color: "#8C1938", type: "static_content" } },
                     { overlay_id: "caption:nho_anh_phien", source: "remote", caption: { background: { colors: ["#F0B5CB", "#F6D0DF", "#DCCAF0"] }, icon: { data: "🥺", type: "emoji" }, max_lines: 1, text: "mấy giờ anh qua đón iemmm", text_color: "#70445A", type: "static_content" } },
@@ -436,7 +436,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Đẳng cấp 💅",
+                section: "Sườn xào chua ngọt",
                 items: [
                     { overlay_id: "caption:feeling_cute", source: "remote", caption: { background: { colors: ["#F8BBD0", "#E91E63"] }, icon: { data: "🌷", type: "emoji" }, max_lines: 1, text: "Feeling Cute", localized_text: { en: "Feeling Cute", vn: "Cảm thấy dthw" }, text_color: "#FFFFFFE5", type: "static_content" } },
                     { overlay_id: "caption:cutie_pie", source: "remote", caption: { background: { colors: ["#FFDEE9", "#FFB6C1", "#FF9AA2"] }, icon: { data: "🎀", type: "emoji" }, max_lines: 1, text: "Cutie Pie 🌸", text_color: "#FFFFFFE6", type: "static_content" } },
@@ -471,7 +471,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Thịt Lợn 🤡",
+                section: "Thịt kho tàu",
                 items: [
                     { overlay_id: "caption:cuoi_vcl_m_oi", source: "remote", caption: { background: { colors: ["#F7971E", "#FFD200", "#FFEE58"] }, icon: { data: "😂", type: "emoji" }, max_lines: 1, text: "Cười vcl m oi", text_color: "#000000E6", type: "static_content" } },
                     { overlay_id: "caption:cuoi_xiu", source: "remote", caption: { background: { colors: ["#FFEB3B", "#FF9800"] }, icon: { data: "😎", type: "emoji" }, max_lines: 1, text: "Cười xỉu", text_color: "#000000E6", type: "static_content" } },
@@ -515,7 +515,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Bún chả chấm 🫠",
+                section: "Bún chả chấm",
                 items: [
                     { overlay_id: "caption:bat_on_that_su", source: "remote", caption: { background: { colors: ["#636363", "#A2AB58"] }, icon: { data: "🫠", type: "emoji" }, max_lines: 1, text: "Bất ổn thật sự", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:nay_la_het_cuu", source: "remote", caption: { background: { colors: ["#607D8B", "#455A64"] }, icon: { type: "sf_symbol", data: "bolt.badge.xmark", color: "#FFFFFFE6" }, max_lines: 1, text: "Này là hết cứu", text_color: "#FFFFFFE6", type: "static_content" } },
@@ -577,7 +577,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Deadline & Tiền bạc 💸",
+                section: "Đậu sốt cà chua",
                 items: [
                     { overlay_id: "caption:deadline_ruot", source: "remote", caption: { background: { colors: ["#ED213A", "#93291E"] }, icon: { data: "🔥", type: "emoji" }, max_lines: 1, text: "Deadline dí tụt quần", text_color: "#FFFFFFE6", type: "static_content" } },
                     { overlay_id: "caption:doi_tru_deadline", source: "remote", caption: { background: { colors: ["#F0D1A4", "#F5E2BD", "#D5D9EF"] }, icon: { data: "📚", type: "emoji" }, max_lines: 1, text: "đời cho gì nhận nấy, trừ deadline", text_color: "#5B4A35", type: "static_content" } },
@@ -595,7 +595,7 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Daily & Đời sống ☕",
+                section: "Daily tí hí hí",
                 items: [
                     { overlay_id: "caption:ngay_moi_vui_ve", source: "remote", caption: { background: { colors: ["#FFB703", "#FFD166", "#FFF0A8"] }, icon: { data: "☀️", type: "emoji" }, max_lines: 1, text: "Ngày mới vui vẻ", text_color: "#69420A", type: "static_content" } },
                     { overlay_id: "caption:coffee_time", source: "remote", caption: { background: { colors: ["#4E342E", "#8D6E63"] }, icon: { data: "☕", type: "emoji" }, max_lines: 1, text: "Coffee Time!", localized_text: { en: "Coffee Time!", vn: "Giờ uống cà phê!" }, text_color: "#FFFFFFE6", type: "static_content" } },
@@ -633,16 +633,16 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Chứng nhận của Locket",
+                section: "✅ Chứng nhận của Locket",
                 items: [
-                    { overlay_id: "caption:locket_cuti", source: "remote", caption: { background: { colors: ["#35B5E8", "#19A1D8"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket xác nhận bạn cutii", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:locket_xinh", source: "remote", caption: { background: { colors: ["#FFD45C", "#F5B91E"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket xác nhận bạn xjnh gái", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:locket_dep", source: "remote", caption: { background: { colors: ["#258DEB", "#1672D4"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket xác nhận bạn đẹp chai", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:locket_dangiu", source: "remote", caption: { background: { colors: ["#FF638B", "#F44772"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket xác nhận bạn dangiu", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:gai_dep", source: "remote", caption: { background: { colors: ["#FF91AE", "#F8759B"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Đã xác minh bạn là gái đẹp", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:trai_dep", source: "remote", caption: { background: { colors: ["#4A9FEF", "#267DD7"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Đã xác minh bạn là trai đẹp", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:be_ngoan", source: "remote", caption: { background: { colors: ["#E9B9C5", "#D9A4B3"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Đã xác nhận bạn là bé ngoan", text_color: "#FFFFFF", type: "static_content" } },
-                    { overlay_id: "caption:tuyen_duong", source: "remote", caption: { background: { colors: ["#D94A77", "#B82D59"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket tuyên dương bạn cute", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:locket_cuti", source: "remote", caption: { background: { colors: ["#35B5E8", "#19A1D8"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket xác nhận: cute phô mai queee", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:locket_xinh", source: "remote", caption: { background: { colors: ["#FFD45C", "#F5B91E"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket xác nhận: đẹp gái", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:locket_dep", source: "remote", caption: { background: { colors: ["#258DEB", "#1672D4"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket xác nhận: đẹp trai", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:locket_dangiu", source: "remote", caption: { background: { colors: ["#FF638B", "#F44772"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket xác nhận: đáng iu", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:gai_dep", source: "remote", caption: { background: { colors: ["#FF91AE", "#F8759B"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Đã xác minh là gái đẹp", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:trai_dep", source: "remote", caption: { background: { colors: ["#4A9FEF", "#267DD7"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Đã xác minh là trai đẹp", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:be_ngoan", source: "remote", caption: { background: { colors: ["#E9B9C5", "#D9A4B3"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Đã xác nhận là bé ngoan", text_color: "#FFFFFF", type: "static_content" } },
+                    { overlay_id: "caption:tuyen_duong", source: "remote", caption: { background: { colors: ["#D94A77", "#B82D59"] }, icon: { data: "checkmark.seal.fill", type: "sf_symbol" }, max_lines: 1, text: "Locket tuyên dương", text_color: "#FFFFFF", type: "static_content" } },
                 ]
             },
         ])
